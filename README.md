@@ -35,7 +35,7 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
     * [Echidna](./Echidna.md)
 * [Otros kits de robótica](./OtrosProyectos.md)
     * [Makey Makey](./MakeyMakey/)
-    * [Escornabot](./esconabor.md)
+    * [Escornabot](./escornabot.md)
     * [Otto](./otto_DIY.md)
     * [mClon](./mClon.md)
     * Lego
