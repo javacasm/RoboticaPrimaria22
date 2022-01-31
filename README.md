@@ -23,13 +23,14 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
 
 
 * [Inclusión de la robótica en el aula](./RoboticaPrimaria.md)
-* La placa [micro:bit](./microbit_BBB.md)
+    * [Actividad: robots que te rodean](./IniciacionRobotica.md)
+* La placa [micro:bit](./microbit_BBB.md): Buena, Bonita y Barata
     * [Tutorial de uso](./Microbit.md)
     * [Haciendo Steam con micro:bit](./microbit_Complementos.md)
     * [Robótica sencilla con la plataforma Maqueen](./MaQueen.md)
     * [Ejemplos de algunos proyectos sencillos](./microbit_ejemplos.md)
 * Primeros pasos con Arduino. Programación visual
-    * ArduinoBlocks
+    * [ArduinoBlocks](./arduinoBlocks.md)
     * [mBlock](./mBlock.md)
     * [Echidna](./Echidna.md)
 * [Otros kits de robótica](./OtrosProyectos.md)
