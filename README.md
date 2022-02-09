@@ -38,5 +38,6 @@ Este curso ofrece al profesorado conocer y utilizar nuevas herramientas para inc
     * [Escornabot](./escornabot.md)
     * [Otto](./otto_DIY.md)
     * [mClon](./mClon.md)
+    * [Edison](./edison.md)
     * Lego
 * [Proyectos](./Proyectos.md)
