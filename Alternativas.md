@@ -9,6 +9,14 @@
 
 ![tapetes](./imagenes/Tapete2.jpg)
 
+Versión barata en forma de ratón
+
+![](./images/ratonTobot.jpeg)
+
+Next 1.0 de Edelvives
+
+![](./images/next1.0.jpeg)
+
 
 
 Alternativa open: [Escornabot](./escornabot.md)
