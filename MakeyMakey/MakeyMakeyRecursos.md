@@ -10,4 +10,8 @@
 
 [Makey-makey y Scratch by @lobo](https://ceipmiskatonic.blogspot.com/2019/03/scratch-makey-makey.html)
 
+[Ejemplos](https://www.instructables.com/makeymakey/)
 
+![](./images/MM-MejorPulso.jpg)
+
+![](./images/MM-LasPartesPlanta.jpg)

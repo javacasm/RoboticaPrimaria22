@@ -1,14 +1,35 @@
 # [Escornabot](https://escornabot.com/web/es)
 
-[Documentacion](https://bricolabs.cc/wiki/proyectos/escornabot)
+![](./images/escornabot_tablero.jpg)
 
-[Escornabot vs BeeBot](https://www.youtube.com/watch?v=fuE7P22zBrQ)
+Escornabot es un robot de suelo pensado para trabajar con los más chiquitines utilizando tablero para fomentar le por un lado el aprendizaje de los temas relacionados con la programación y la robótica y por otro lado para mediante el juego y trabajando los contenidos que los profes les ponemos en los tableros por los que se mueve el robot.
+
+Es una versión Open source de robots comerciales como pueden ser BeeBot o el ratoncito.
+
+[Comparativa: Escornabot vs BeeBot](https://www.youtube.com/watch?v=fuE7P22zBrQ)
+
+Es un robot más que opensource, es un robot con vocación Do It Yourself, pensado para que los niños lo monten o al menos vean cómo se monta.
+
+
+Desde [esta página](https://pablorubma.cc/escornabot/) (¡¡Gracias Pablo!!) tenéis acceso a las diferentes versiones donde nos explican como programarlo pues decidir entre versiones:
+
+![](./images/escornabot-DIY.jpg)
+
+* Más complejas de montar,la **[DIY](https://pablorubma.cc/escornabot/version-diy/)**, en la que los chavales tienen que aprender a hacer el cableado, y todo el montaje. Nos lleva perfectRecomendamos esta versión para el alumnado por encima de los siete ocho años depende más de la madura y de la capacidad que tenga y lo acostumbrado que esté a estos temas que el curso o los añosamente 2-3 horas para montarlo completo, pero por el camino se aprende en un montón de cosas de electrónica y de montaje. 
+
+* También existe otras versiones más sencillas como el [Singularis](https://pablorubma.cc/escornabot/version-2-12-xdesig/) y  la [Brivoi](https://pablorubma.cc/escornabot/version-compactus/) en  las que toda la electrónica ya está soldada en una placa y el cableado en mínimo, lo que nos permite montar sin ningún problema en menos de una hora explicando los componentes y trabajandolo todo.
+
+Dependiendo del enfoque que queramos darle usaremos unas u otra: si lo que queremos es trabajar más en la parte de aprendizaje de electrónica de robótica y ellos están capacitados, empezaremos con la versión Do It Yourself y si están empezando con el tema mucho mejor cualquiera de las otras versiones
+
+En cualquier caso también podemos ir avanzando empezando por una versión más sencilla y a medida que yo van aprendiendo y le van cogiendo el truquillo pues vamos pasando a otras versiones un poco más complicada de montarle
+
+[Documentacion](https://bricolabs.cc/wiki/proyectos/escornabot)
 
 Se puede disfrazar
 
-![gatito](http://1.bp.blogspot.com/-6KEHKaWufKo/VpQwH7vFDQI/AAAAAAAAFqM/1Ln8qEWx3pU/s1600/20160111_233312.jpg)
+![gatito](./images/escornabot-disfraz_gato.jpg)
 
-![antifaz](https://pbs.twimg.com/media/B-PKBn3IYAA8M6a.jpg)
+![antifaz](./images/escornabot-disfraz_rey.jpg)
 
 Está pensado para que lo puedan manejar niños muy pequeños
 
